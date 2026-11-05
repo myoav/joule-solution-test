@@ -1,4 +1,4 @@
-# PR Comment Issue Analyzer Agent
+# PR Comment Issue Analyzer Agents
 
 ## Business Challenge
 
