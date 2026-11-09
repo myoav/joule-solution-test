@@ -5,7 +5,8 @@
 **Owner:** Development Team
 **Solution Category:** AI Agent
 Yoav test 5
-Kobi Cohen test
+Gigya 2026
+
 ---
 
 ## Product Purpose & Value Proposition
