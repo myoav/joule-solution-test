@@ -5,7 +5,7 @@
 **Owner:** Development Team
 **Solution Category:** AI Agent
 Yoav test 5
-Gigya 2026
+Gigya 2028
 
 ---
 
